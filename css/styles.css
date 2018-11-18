@@ -531,3 +531,14 @@ body section p {
 	width:200%;
 }
 }
+@media (max-width: 960px){
+	#carouselExampleIndicators1 {
+    width: 40%;
+    float: right;
+	margin-top: -50%;
+    margin-left: 5%;
+    height: 30%;
+	
+}	
+}
+
