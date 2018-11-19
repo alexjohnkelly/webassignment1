@@ -622,3 +622,12 @@ body section p {
 	}
 
 }
+
+@media (max-width: 1200px){
+	#carouselExampleIndicators1 {
+    float: right;
+		width: 50%;
+	margin-top: -40%;
+		margin-left: 10%;
+	
+}
