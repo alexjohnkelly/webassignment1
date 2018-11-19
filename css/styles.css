@@ -622,3 +622,17 @@ body section p {
 	}
 
 }
+
+@media (max-width: 767px){	.sectionrightspam {
+    width: 50%;
+    margin-top: 10%;
+    float: none;
+    margin-left: 5%;
+	}
+	.sectionrightbackup {
+    width: 50%;
+    margin-top: 10%;
+    float: none;
+	margin-left: 5%;
+	}
+}
